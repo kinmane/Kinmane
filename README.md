@@ -3,7 +3,7 @@
   <a href="https://github.com/Kinmane">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinmane&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="padding-left: 340px"><br>
   <img align="center" alt="Gabriel-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Gabriel-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
