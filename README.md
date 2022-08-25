@@ -1,8 +1,5 @@
 ## Olá, eu sou Gabriel Souza!
-<div align="center">
-  <a href="https://github.com/Kinmane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinmane&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 <div style="padding-left: 340px"><br>
  <!-- <img align="center" alt="Gabriel-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-Ts" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
