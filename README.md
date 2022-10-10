@@ -1,7 +1,13 @@
 ## Olá, eu sou Gabriel Souza!
 
+<div>
+<a href="https://github.com/kinmane">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinmane&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <div style="padding-left: 340px"><br>
- <img align="center" alt="Gabriel-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Gabriel-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-Ts" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gabriel-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Gabriel-CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
