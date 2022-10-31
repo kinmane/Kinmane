@@ -1,6 +1,9 @@
 ## Olá, eu sou Gabriel Souza!
 
-
+<div>
+  <a href="https://github.com/kinmane">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinmane&layout=compact&langs_count=8&theme=dracula"/>
+</div>
 
 <div style="padding-left: 340px"><br>
   <img align="center" alt="Gabriel-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
