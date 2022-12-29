@@ -1,25 +1,38 @@
-## Olá, eu sou Gabriel Souza!
 
-<div>
-  <a href="https://github.com/kinmane">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinmane&layout=compact&langs_count=8&theme=dracula"/>
-</div>
 
-<div style="padding-left: 340px"><br>
-  <img align="center" alt="Gabriel-CSharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />     
-  <img align="center" alt="Gabriel-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Gabriel-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Ts" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabriel-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="Gabriel-CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-</div>
+![](https://komarev.com/ghpvc/?username=kinmane&color=006bed)
 
-  ##
- 
-<div> 
-  <a href = "mailto:rorato91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-souza-a891a516a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<h3> :man: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando Engenharia de Software.
+- 💼 &nbsp; Trabalhando como Analista de Suporte na <a href="https://br.linkedin.com/company/senior-norte-paran%C3%A1">Senior Norte PR</a>
+- 🌱 &nbsp; Aprendendo mais sobre **TypeScript**.
+
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+
+<br/>
+
+<a href="https://github.com/kinmane">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinmane&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Gabriel Souza](https://img.shields.io/badge/-Gabriel%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-souza-a891a516a/)](https://www.linkedin.com/in/gabriel-souza-a891a516a/)
+[![Gmail Badge](https://img.shields.io/badge/-rorato91@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rorato91@gmail.com)](mailto:rorato91@gmail.com)
+[![Kinmane]( https://img.shields.io/github/followers/kinmane?label=follow&style=social)](https://github.com/kinmane)
