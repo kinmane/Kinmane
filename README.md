@@ -36,3 +36,5 @@
 [![Linkedin: Gabriel Souza](https://img.shields.io/badge/-Gabriel%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-souza-a891a516a/)](https://www.linkedin.com/in/gabriel-souza-a891a516a/)
 [![Gmail Badge](https://img.shields.io/badge/-rorato91@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rorato91@gmail.com)](mailto:rorato91@gmail.com)
 [![Kinmane]( https://img.shields.io/github/followers/kinmane?label=follow&style=social)](https://github.com/kinmane)
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
