@@ -23,6 +23,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+  ![shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=shell)
 
 <br/>
 
