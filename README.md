@@ -8,6 +8,7 @@
 - 🎓 &nbsp; Estudando Engenharia de Software.
 - 💼 &nbsp; Trabalhando como Analista de Suporte na <a href="https://br.linkedin.com/company/senior-norte-paran%C3%A1">Senior Norte PR</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TypeScript**.
+- 📑 &nbsp; <a href="https://kinmane.vercel.app/">Portifólio</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
