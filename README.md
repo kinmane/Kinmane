@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Engenharia de Software.
 - 💼 &nbsp; Trabalhando como Analista de Suporte na <a href="https://br.linkedin.com/company/senior-norte-paran%C3%A1">Senior Norte PR</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TypeScript**.
+- 🌱 &nbsp; Aprendendo mais sobre **Java**.
 - 📑 &nbsp; <a href="https://kinmane.vercel.app/">Portifólio</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -25,6 +25,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=shell)
 
 <br/>
