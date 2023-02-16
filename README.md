@@ -31,7 +31,7 @@
 <br/>
 
 <a href="https://github.com/kinmane">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinmane&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinmane&layout=compact&langs_count=10&theme=dracula"/>
 </a>
 
 <br/>
