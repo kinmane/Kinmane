@@ -1,39 +1,52 @@
+<h2 align="left">Oi 👋! Meu nome é Gabriel.</h2>
 
-
-![](https://komarev.com/ghpvc/?username=kinmane&color=006bed)
-
-<h3> :man: &nbsp;Sobre mim </h3>
+###
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Engenharia de Software.
 - 💼 &nbsp; Trabalhando como Analista de Suporte na <a href="https://br.linkedin.com/company/senior-norte-paran%C3%A1">Senior Norte PR</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Java**.
+- 🌱 &nbsp; Aprendendo mais sobre **Java e Kotlin**.
 - 📑 &nbsp; <a href="https://kinmane.vercel.app/">Portifólio</a>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+###
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=shell)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kin/count.svg?"  />
+</div>
 
-<br/>
+###
 
-<a href="https://github.com/kinmane">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinmane&layout=compact&langs_count=8&theme=dracula"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&username=kinmane" height="170" alt="languages graph"  />
+</div>
 
-<br/>
+###
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="45" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" width="45" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="45" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="45" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="45" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="45" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="45" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="45" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="45" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="45" alt="bash logo"  />
+</div>
 
-[![Linkedin: Gabriel Souza](https://img.shields.io/badge/-Gabriel%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-souza-a891a516a/)](https://www.linkedin.com/in/gabriel-souza-a891a516a/)
-[![Gmail Badge](https://img.shields.io/badge/-rorato91@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rorato91@gmail.com)](mailto:rorato91@gmail.com)
-[![Kinmane]( https://img.shields.io/github/followers/kinmane?label=follow&style=social)](https://github.com/kinmane)
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
+
+###
+
+<br clear="both">
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+###
