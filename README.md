@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Engenheiro de Software.
 - 💼 &nbsp; Trabalhando como Analista de Suporte na <a href="https://br.linkedin.com/company/senior-norte-paran%C3%A1">Senior Norte PR</a>
-- 🌱 &nbsp; Aprendendo e focado sobre **C#**, **JS/TS** e **Python**.
+- 🌱 &nbsp; Aprendendo e focado sobre **C#** e **JS/TS**.
 - 📑 &nbsp; <a href="https://kinmane.vercel.app/">Portifólio</a>
 
 ###
@@ -28,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="45" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="45" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="45" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="45" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="45" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="45" alt="bash logo"  />
 </div>
