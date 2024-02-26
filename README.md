@@ -3,9 +3,10 @@
 ###
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Engenheiro de Software.
+- 🎓 &nbsp; Engenheiro de Software (Formado).
+- 🎓 &nbsp; Física (Cursando).
 - 💼 &nbsp; Trabalhando como Analista de Suporte na <a href="https://br.linkedin.com/company/senior-norte-paran%C3%A1">Senior Norte PR</a>
-- 🌱 &nbsp; Aprendendo e focado sobre **Python**, **C#** e **JS/TS**.
+- 🌱 &nbsp; Aprendendo e focado sobre **C#** e **JS/TS**.
 - 📑 &nbsp; <a href="https://kinmane.vercel.app/">Portifólio</a>
 
 ###
