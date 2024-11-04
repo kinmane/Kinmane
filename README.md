@@ -6,7 +6,6 @@
 - 🎓 &nbsp; Engenheiro de Software (Formado).
 - 🎓 &nbsp; Física (Cursando).
 - 💼 &nbsp; Trabalhando como Analista de Suporte na <a href="https://br.linkedin.com/company/senior-norte-paran%C3%A1">Senior Norte PR</a>
-- 🌱 &nbsp; Full-Stack.
 - 📑 &nbsp; <a href="https://kinmane.vercel.app/">Portifólio</a> (manutenção)
 
 ###
