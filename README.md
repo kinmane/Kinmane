@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é Gabriel.</h2>
+<!--<h2 align="left">Oi 👋! Meu nome é Gabriel.</h2>
 
 ###
 
@@ -15,7 +15,7 @@
 </div>
 
 ###
-
+-->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&username=kinmane" height="170" alt="languages graph"  />
 </div>
